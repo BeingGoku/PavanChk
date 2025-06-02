@@ -676,6 +676,7 @@ Total Auth Commands: 4
    6. Bot Status: /ping - Check bot response time ✅
    7. Check credits: /credits - To check your credits✅
    8. Features: /howpm - To check Free>vs<Paid>vs<Premium✅
+
 Total Helper Commands: 8
 
 """
