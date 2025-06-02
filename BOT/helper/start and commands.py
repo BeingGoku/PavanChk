@@ -408,7 +408,7 @@ Total Auth Commands: 1
         )
     if CallbackQuery.data == "BRAINTREEVBV":
         CHARGE_TEXT = """
-🔹 Braintree Gates of Goku  Checker
+🔹 Braintree Gates of Hanuman  Checker
 🔹 Status: ✅ Active
 
 🚀 Quick Commands Overview:
@@ -675,7 +675,7 @@ Total Auth Commands: 4
    5. User ID: /id - Get your user ID ✅
    6. Bot Status: /ping - Check bot response time ✅
    7. Check credits: /credits - To check your credits✅
-   8. Features: /howpm - To check Free>vs<Paid>vs<Premium✅
+   8. Features: /howpm - To check FreevsPaidvsPremium✅
 
 Total Helper Commands: 8
 
