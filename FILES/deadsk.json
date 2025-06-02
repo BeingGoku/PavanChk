@@ -1,0 +1,23 @@
+{
+    "DEAD_SK_KEY": "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",
+    "DEAD_PK_KEY": "pk_live_51IorySBA2eNwT6B1OsxRmXCS7qTHFiaKZxMs4vBbHCmicW210yNxkJu6XeD1Ns1m5XAkFJCeuwakvrmF3gWekQyW00I1dIiqcu",
+    "DEAD_CURRENCY": "USD",
+    "LIVE_SK": "Stripe Integration Off \u2705\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501 \nKey : sk_live_cD5DsMS0EnpOc04VdkujH1KO00u0zJzct2\nResponse : Integration Off \u26a0\ufe0f\n\nCard Payments : active\n\nBalance Info:\nCurrency: eur\nBalance: 0$\nPending Balance :\u27ba720\n\nCards Processed: 0\n\nMore Info:\nUsers IP Blacklisted: (0)\nN/A\nCard Bin Blacklisted: (0)\nN/A\nCard Country Blacklisted: (0)\nN/A\nCountry's IP Blacklisted: (0)\nN/A\n\nChecked By  \u300c\ud835\uddeb\ud835\uddec\u300d\u02f9\u2756\u02fc \uff25\uff36\uff29\uff2c\u300c \u2624 \u300d \u02f9\u26e5\u02fc \nBot by - GOKU",
+    "DEAD_AMOUNT": "100",
+    "WOO_PRODUCT_ID": "12337",
+    "AUTO_SHOPIFY_SO": "https://stickersbysuzie.com/products/tummyache-survivor-sticker?variant=46202157990075",
+    "gate_active": [
+        "/py",
+        ".py",
+        "/mpy",
+        ".mpy",
+        "/pytxt",
+        ".pytxt",
+        "/pp",
+        ".pp",
+        "/mpp",
+        ".mpp",
+        "/pptxt",
+        ".pptxt"
+    ]
+}

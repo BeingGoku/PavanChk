@@ -1,0 +1,17 @@
+pyrogram
+stripe
+pymongo
+bs4
+pyromod
+httpx
+fake_useragent
+speedtest-cli
+psutil
+httpcore
+cryptography
+pytz
+openai
+pycountry
+flask
+replit-object-storage
+TgCrypto

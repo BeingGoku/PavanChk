@@ -1,0 +1,10 @@
+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 {
+  "error": {
+    "code": "testmode_charges_only",
+    "doc_url": "https://stripe.com/docs/error-codes/testmode-charges-only",
+    "message": "This Connect account cannot currently make live charges. The `requirements.disabled_reason` property on the account will provide information about why this account is currently disabled. If you are a customer trying to make a purchase, please contact the owner of this site. Your transaction has not been processed.",
+    "request_log_url": "https://dashboard.stripe.com/acct_1PrNGwJO8IBuaUFT/logs/req_jI5QJzVj7MTmAS?t=1743598763",
+    "type": "invalid_request_error"
+  }
+}
+
