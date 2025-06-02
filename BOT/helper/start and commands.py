@@ -674,8 +674,9 @@ Total Auth Commands: 4
    4. Premium Plans: /buy - View premium plans ✅
    5. User ID: /id - Get your user ID ✅
    6. Bot Status: /ping - Check bot response time ✅
-
-Total Helper Commands: 6
+   7. Check credits: /credits - To check your credits✅
+   8. Features: /howpm - To check Free>vs<Paid>vs<Premium✅
+Total Helper Commands: 8
 
 """
         HELPER_BUTTON = [
