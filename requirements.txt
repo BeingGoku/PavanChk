@@ -15,3 +15,6 @@ pycountry
 flask
 replit-object-storage
 TgCrypto
+user_agent
+faker
+datetime
