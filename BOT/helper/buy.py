@@ -133,7 +133,7 @@ async def show_price_list(client, callback_query):
 async def close_message(client, callback_query):
     try:
         await callback_query.message.delete()
-        await callback_query.message.reply_text("Enjoy SAIYAN @Goku_vortex")
+        await callback_query.message.reply_text("Enjoy Bhakt @lord_hanumant_bot")
 
     except Exception:
         import traceback
